@@ -1,0 +1,11 @@
+\\Mac\Home\Downloads\Brewery\Brewery\bin\Debug\Brewery.exe.config
+\\Mac\Home\Downloads\Brewery\Brewery\bin\Debug\Brewery.exe
+\\Mac\Home\Downloads\Brewery\Brewery\bin\Debug\Brewery.pdb
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.MainForm.resources
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.Properties.Resources.resources
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.exe
+\\Mac\Home\Downloads\Brewery\Brewery\obj\Debug\Brewery.pdb
